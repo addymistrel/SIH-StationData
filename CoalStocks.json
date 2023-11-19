@@ -1,4 +1,5 @@
-[
+[  
+    {"stationID":1, "stocks":120},
   { "stationID": 2, "stocks": 1650 },
   { "stationID": 3, "stocks": 300 },
   { "stationID": 4, "stocks": 2200 },
